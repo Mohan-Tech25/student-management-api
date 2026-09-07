@@ -25,5 +25,5 @@ app.include_router(
 def root():
 
     return {
-        "message": "Student API is running"
+        "message": "Student Management API is running"
     }
